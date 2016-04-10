@@ -279,3 +279,19 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# data files
+data/
+
+# data files
+*.m
+*.qm
+*.hm
+*.ply
+*.obj
+*.t
+*.txt
+*.xml
+*.png
+*.eps
+*.bmp
